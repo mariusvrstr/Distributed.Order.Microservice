@@ -1,0 +1,3 @@
+[submodule "Distributed.Common.Infrastructure"]
+	path = Distributed.Common.Infrastructure
+	url = https://github.com/mariusvrstr/Distributed.Common.Infrastructure.git
